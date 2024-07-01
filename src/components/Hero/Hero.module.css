@@ -1,0 +1,12 @@
+.hero {
+    width: 100%;
+    min-height: 100vh;
+    /* background: linear-gradient(rgba(0, 0, 0, .2), rgba(8, 3, 37, 0.875), rgba(0, 0, 0, .2)), url('../../public/assets/hero-bg.png') no-repeat center center/cover; */
+    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.453), rgba(0, 0, 0, .2)), url('../../../public/images/Brampton_City_Hall.jpg') no-repeat center center/cover fixed;
+    z-index: -20;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* justify-content: center; */
+}
